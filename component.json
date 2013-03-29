@@ -1,0 +1,13 @@
+{
+  "name": "ws",
+  "repo": "CamShaft/ws",
+  "description": "Cross-Browser WebSocket",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
